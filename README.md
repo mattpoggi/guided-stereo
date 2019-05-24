@@ -1,2 +1,3 @@
-# guided-stereo
-CVPR 2019 - Guided Stereo Matching
+# Guided Stereo Matching
+Demo code of "Guided Stereo Matching", CVPR 2019.
+Coming soon...
