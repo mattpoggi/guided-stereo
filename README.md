@@ -30,7 +30,7 @@ Copyright (c) 2019 University of Bologna. Patent pending. All rights reserved. L
 2. [Usage](#usage)
 3. [Results](#results)
 4. [Contacts](#contacts)
-5. [Acknowledgements](#acknowledgements)
+5. [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -89,6 +89,6 @@ Qualitative results on Middlebury v3 sampling 5% hints from ground truth. From l
 ## Contacts
 m [dot] poggi [at] unibo [dot] it
 
-## Acknowledgements
+## Acknowledgments
 
 Thanks to Jia-Ren Chang for sharing the original implementation of PSMNet: https://github.com/JiaRenChang/PSMNet
